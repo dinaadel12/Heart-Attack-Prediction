@@ -1,4 +1,4 @@
-Heart Attack Prediction Using Machine Learning
+
 Project Overview
 This project aims to develop a machine learning model to predict the risk of heart attacks in individuals. The model leverages historical patient data and machine learning algorithms to identify individuals at high risk of heart attacks. By analyzing various medical features such as age, gender, cholesterol levels, and blood pressure, the model provides valuable insights for early detection and potential intervention.
 
